@@ -1,4 +1,4 @@
-# ASTR381 research project, Semester 2, 2020
+# ASTR381 Research Project, Semester 2, 2020
 This GitHub contains all relevant files and outputs relating to my ASTR381 project.
 
 Aayushi Verma
