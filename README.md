@@ -1,9 +1,10 @@
-ASTR381 research project, S2 2020. This GitHub contains all relevant and editable files relating to my ASTR381 project.
+# ASTR381 research project, Semester 2, 2020
+This GitHub contains all relevant files and outputs relating to my ASTR381 project.
 
 Aayushi Verma
 
-Project Title: Interstellar comet observations made with VLT/MUSE 
+**Project Title:** Interstellar comet observations made with VLT/MUSE 
 
-Project Supervisor: Dr. Michele Bannister 
+**Project Supervisor:** Dr. Michele Bannister 
 
-Project Duration: 07-08-2020 to 30-10-2020
+**Project Duration:** 07-08-2020 to 30-10-2020
