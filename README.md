@@ -1,5 +1,5 @@
 # ASTR381 Research Project, Semester 2, 2020
-This GitHub contains all relevant files and outputs relating to my ASTR381 project.
+This GitHub repository contains all relevant files and outputs relating to my ASTR381 project.
 
 Aayushi Verma
 
@@ -8,3 +8,5 @@ Aayushi Verma
 **Project Supervisor:** Dr. Michele Bannister 
 
 **Project Duration:** 07-08-2020 to 30-10-2020
+
+**Project Abstract:**
