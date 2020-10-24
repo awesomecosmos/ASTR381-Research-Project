@@ -19,7 +19,19 @@ and the Jet Propulsion Laboratory Horizons database, and joining these data with
 data obtained from each epoch of observation on VLT/MUSE, to produce a data table comprising
 of geometric and observational information pertaining to the trajectory of 2I/Borisov. Using these
 data, the observational circumstances of 2I/Borisov are analysed, and it is found that these observations
-were made in dicult conditions. Yet, there are numerous applications for this data table,
+were made in difficult conditions. Yet, there are numerous applications for this data table,
 with the primary application being the analysis of the chemical composition spectrum of the comet,
 which aids in understanding the environment this interstellar comet originates from, which is most
 likely a planetary formation system.
+
+## Directory Structure of Files
+
+**ASTR381-Research.ipynb** is the main working code.
+
+**Final Table** contains the final data table in HTML, ASCII and CSV data formats.
+
+**Mini Latex Table** contains the Latex code and PDF of the abridged data table.
+
+**Night Reports** contains CSVs of the Night Report information.
+
+**Plots** contains high-res plots as .png data types.
